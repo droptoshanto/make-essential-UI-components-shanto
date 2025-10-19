@@ -25,7 +25,7 @@
 #hero {
     background: linear-gradient(00deg,
             rgba(9.197244644165039, 8.92899227142334, 8.92899227142334, 1),
-            rgba(16, 16, 16, 0) 100%), url("/assets/hero-bg.png");
+            rgba(16, 16, 16, 0) 100%), url("assets/hero-bg.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
